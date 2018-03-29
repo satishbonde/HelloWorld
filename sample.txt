@@ -1,0 +1,13 @@
+ Volume in drive D is DataDisk
+ Volume Serial Number is FC04-3C87
+
+ Directory of D:\Jenkins\Helloworld
+
+03/29/2018  12:32 PM    <DIR>          .
+03/29/2018  12:32 PM    <DIR>          ..
+03/29/2018  12:31 PM               446 HelloWorld.class
+03/29/2018  10:54 AM               141 HelloWorld.java
+03/29/2018  11:42 AM               458 readme.txt
+03/29/2018  12:32 PM                 0 sample.txt
+               4 File(s)          1,045 bytes
+               2 Dir(s)  287,782,297,600 bytes free
